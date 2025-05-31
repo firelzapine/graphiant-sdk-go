@@ -1,2 +1,2 @@
-# gcsdk-go
-Go SDK for GCS API
+# graphiant-sdk-go
+Go SDK for Graphiant NaaS
